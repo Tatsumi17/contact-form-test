@@ -1,0 +1,39 @@
+.backside-thanks{
+    position: absolute;
+        display: inline-block;
+        white-space: nowrap;
+        font-size: 200px;
+        font-family: "Comic Sans MS";
+        color: rgba(95, 122, 67, 0.09);
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+
+.frontside-thanks{
+    color: #947146;
+    font-size: 30px;
+    position: absolute;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-form{
+    position: absolute;
+    top:55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-form button{
+    padding:10px 15px;
+    font-family: "Courier New";
+    background-color: rgb(116, 141, 89);
+    color: white;
+}
+
+header{
+    display: none;
+}
